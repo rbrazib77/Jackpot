@@ -1,0 +1,1042 @@
+
+/* ================ Extra large Device Start================= */
+@media (min-width:1200px) and (max-width:1399.98px){
+
+    /* -------------Sign page Start----------- */
+    .register a {
+        padding: 17px 19px;
+        margin-left: 8px;
+    }
+    .register a:not(:last-child)::after {
+        right: -7px;
+    }
+    /* -------------Sign page End----------- */
+    /* -------------login page Start----------- */
+    .sign_up_img img {
+        left: -194px;
+        top: -140px;
+    }
+    .log_in {
+        padding-top: 20px;
+    }
+    /* -------------Login page End----------- */
+    /* -------------Contact page Start----------- */
+    .contact_text h6 {
+        font-size: 16px;
+    }
+    /* -------------Contact page End----------- */
+    /* -------------About page Start----------- */
+    .about_unlock_item {
+        padding-top: 0px;
+    }
+    .unlock_item P {
+        width: 552px;
+    }
+    .about_releted {
+        padding-top: 90px;
+        padding-bottom: 70px;
+    }
+    /* -------------About page End----------- */
+    /* ---------Error page Start----------- */
+    .error_text {
+        top: 33%;
+    }
+    .error_text span {
+        letter-spacing: 12px;
+    }
+    /* ---------Error page End----------- */
+}
+/* ================ Extra large Device End================= */
+/* ================large Device Start================= */
+@media (min-width:992px) and (max-width:1199.98px){
+    .navbar-brand img {
+        width: 220px;
+    }
+    .navbar-brand {
+        margin-right:0;
+    }
+    ul.our_primary_menu li a {
+        font-size: 18px;
+        padding-left: 18px;
+        padding-right: 18px;
+    }
+    .banner_right{
+        position: static !important;
+    }
+    .banner_right img {
+        position: static !important;
+    }
+    .banner_left h2 {
+        font-size: 291px;
+    }
+    .related_caption h3 {
+        padding-top: 50px !important;
+    }
+    .unlock_item P {
+        width: 462px;
+    }
+    .unlock_item h3 {
+        padding-top:0;
+        padding-bottom: 40px;
+    }
+    .pricing_table_caption h4 {
+        padding-bottom: 60px;
+    }
+    .pricing_btn a {
+        padding: 17px 26px;
+    }
+    .accordion-button{
+        font-size: 17px;
+    }
+    .hours h6 {
+        font-size: 15px;
+    }
+    img, svg {
+        vertical-align: top;
+        
+    }
+    .payment_card img {
+        margin-right: 4px;
+        width: 18%;
+    }
+    .footer_item p {
+        width: 300px;
+    }
+    /* ----------About page Start--------------- */
+    .about_unlock_item {
+        padding-top: 0px;
+    }
+    .related_caption h3 {
+        padding-top: 0px;
+    }
+    .about_releted {
+        padding-top: 80px !important;
+        padding-bottom: 70px;
+    }
+    /* ----------About page End--------------- */
+    /* ----------Games page Start--------------- */
+    .related {
+        padding-top: 100px;
+    }
+    .games {
+        padding-bottom: 50px;
+    }
+    /* ----------Games page End--------------- */
+    /* ----------Contact page Start--------------- */
+    .contact_section {
+        padding-top: 216px;
+        padding-bottom: 100px;
+    }
+    .contact_text h6 {
+        font-size: 11px;
+        padding-bottom: 12px;
+    }
+    .contact_icon a {
+        padding: 29px 30px;
+    }
+    .btn_primary a {
+        padding: 13px 30px;
+    }
+    /* ----------Contact page End--------------- */
+    /* ----------Login page Start--------------- */
+    .sign_up_img {
+        width: 588px;
+        height: 473px;
+    }
+    .sign_up_img img {
+        left: -139px;
+    }
+    .sign_up_caption h5 {
+        margin-bottom: 40px;
+    }
+    .form-group .form-control {
+        padding: 10px 0;
+        margin-bottom: 25px;
+    }
+    .sing_up h6 {
+        font-size: 13px;
+    }
+    .log_in span {
+        font-size: 13px;
+    }
+    /* ----------Login page End--------------- */
+    /* ----------Sing page End--------------- */
+    .register span {
+        font-size: 13px;
+    }
+    .register a {
+        padding: 14px 14px;
+        margin-left: 8px;
+    }
+    .register a:not(:last-child)::after {
+        right: -7px;
+    }
+    .sign_in h6 {
+        font-size: 13px;
+    }
+    /* ----------sing page End--------------- */
+     /* ---------Pricing page Start----------- */
+     .membership_pricing {
+        padding-top: 137px;
+        padding-bottom: 100px;
+    }
+    .btn_primary a {
+        padding: 13px 26px;
+    }
+     /* ---------Pricing page End----------- */
+     /* ---------Error page Start----------- */
+     .error_text {
+        top: 33%;
+    }
+     /* ---------Error page End----------- */
+}
+/* ================large Device End================= */
+/* ================Medium Device Start================= */
+@media (min-width:768px) and (max-width:991.98px){
+    .navbar-brand {
+        margin-right:0;
+    }
+    .navbar-brand img {
+        width: 250px;
+        margin-bottom: 0;
+    }
+    .navbar-toggler:focus {
+        box-shadow:none;
+    }
+    .navbar-toggler-icon {
+        padding-top: 30px;
+    }
+    .navbar-toggler-icon i{
+        color: #ffff;
+        font-size: 45px;
+    }
+    ul.our_primary_menu {
+        background: black;
+       
+    }
+    ul.our_primary_menu li:not(:last-child) {
+        border-bottom: 1px solid #ddd;
+    }
+    ul.our_primary_menu li{
+        text-align: center;
+    }
+    ul.our_primary_menu li a {
+        color: #fff;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .btn_primary {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .btn_primary a {
+        padding: 17px 60px;
+        font-size: 24px;
+    }
+    .banner_right{
+        position: static !important;
+    }
+    .banner_right img {
+        position: static !important;
+    }
+    #banner {
+        padding-bottom: 130px;
+    }
+    .banner_left {
+        margin-left: 0;
+        text-align: center;
+    }
+    .banner_left h4 {
+        font-size: 30px;
+        text-align: left;
+        margin-left: 126px;
+    }
+    .banner_left h2 {
+        font-size: 300px;
+    }
+    .banner_left p {
+        font-size: 20px;
+    }
+    .counter_all {
+        clip-path: none;
+    }
+    .counter_item h5 {
+        padding-left: 30px;
+        padding-right: 30px;
+        line-height: 1.2;
+    }
+    .related {
+        margin-top: -126px;
+        padding-bottom: 50px;
+    }
+    .related_shap a {
+	    font-size: 12px;
+    }
+    .related_shap h3 {
+        font-size: 17px;
+        padding-bottom: 25px;
+    }
+    .related_caption h3 {
+        padding-top: 70px;
+    }
+    #unlock {
+        padding-top: 60px;
+    }
+    .unlock_item h3 {
+        padding-top: 0;
+        padding-bottom: 24px;
+    }
+    .unlock_item P {
+        font-size: 14px;
+        width: 339px;
+    }
+    .unlock_item span {
+        padding-top: 8px;
+    }
+    .unlock_left{
+        text-align: left;
+    }
+    #pricing_table {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .pricing_table_caption h4 {
+        padding-bottom: 30px;
+    }
+    .pricing_table_item h4 {
+        padding-top: 30px;
+    }
+    .pricing_table_item ul li {
+        padding-top: 12px;
+    }
+    .pricing_table_item {
+        padding-bottom: 20px;
+    }
+    .pricing_btn a {
+        padding: 14px 27px !important;
+        font-size: 11px;
+    }
+    #frequently_tournaments {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .frequently_caption h4 {
+        font-size: 30px;
+        padding-bottom: 27px;
+    }
+    .tournaments_caption h4 {
+        font-size: 30px;
+        padding-bottom: 27px;
+    }
+    .accordion-item {
+        padding: 30px 2px 40px 2px;
+    }
+    .accordion-button{
+        font-size: 14px;
+    }
+    .yyyy {
+        padding-bottom: 10px;
+    }
+    img, svg {
+        vertical-align: top;
+    }
+    .time_caption h5 {
+        font-size: 25px;
+    }
+    /* .accordion-header .accordion-button i {
+        font-size: 28px;
+        top: -2px;
+        right: -30px;
+    } */
+    .flag_name h4 {
+        font-size: 15px;
+    }
+    .payment_card img {
+        margin-right: 2px;
+        width: 18%;
+    }
+    .footer_item p {
+        width: 341px;
+    }
+    .footer_btn a {
+        padding: 20px 24px;
+        margin-right: 12px;
+    }
+    .footer_item h2 {
+        padding-top: 30px;
+    }
+    .security_img {
+        text-align: right;
+    }
+    /* --------About Page Start----------- */
+    .about_unlock {
+        margin-top: -126px;
+        padding-top: 170px;
+        padding-bottom: 160px;
+    }
+    .about_unlock_item {
+        padding-top: 0px;
+    }
+    .btn_primary a {
+        padding: 17px 23px;
+    }
+    .related {
+        padding-top: 45px !important;
+    }
+    /* --------About Page End----------- */
+    /* --------Games Page Start----------- */
+    .related {
+        padding-top: 110px !important;
+    }
+    .games {
+        padding-bottom: 50px;
+    }
+    .about_breadcrumb_text h5 {
+        padding-bottom: 30px;
+    }
+    /* --------Games Page Start----------- */
+    /* --------Contact Page Start----------- */
+    .contact_section {
+        padding-top: 200px;
+        margin-top: -126px;
+        padding-bottom: 65px;
+    }
+    .contact_text {
+        margin-left: 10px;
+    }
+    .contact_icon a {
+        padding: 16px 16px;
+    }
+    .contact_icon i {
+        font-size: 25px;
+    }
+    .contact_text h4 {
+        font-size: 16px;
+        padding-bottom: 10px;
+    }
+    .contact_text h6 {
+        font-size: 10px;
+        padding-bottom: 10px;
+    }
+    /* --------Contact Page End----------- */
+    /* --------Login Page Start----------- */
+    .sign_up_section {
+        padding-top: 205px;
+        margin-top: -126px;
+    }
+    .sign_up_img img {
+        left: -100px;
+    }
+    .sign_up_img {
+        width: 492px;
+        height: 482px;
+    }
+    .sign_up_caption h5 {
+        margin-bottom: 40px;
+    }
+    .form-group .form-control {
+        padding: 10px 0;
+        margin-bottom: 25px;
+    }
+    /* --------Login Page End----------- */
+    /* ---------Sign page Start---------- */
+    .register a {
+        margin-bottom: 20px;
+    }
+    .sign_up_caption h5 {
+        margin-bottom: 30px;
+    }
+    .form-group .form-control {
+        padding: 10px 0;
+        margin-bottom: 15px;
+    }
+    /* ---------Sign page End---------- */
+    /* ---------Pricing page Start----------- */
+    .membership_pricing {
+        margin-top: -126px;
+        padding-top: 162px;
+        padding-bottom: 100px;
+    }
+    /* ---------Pricing page End----------- */
+    /* ---------Error page Start----------- */
+    .error_img {
+        position: inherit;
+    }
+    .error_text {
+        top: 54%;
+    }
+    /* ---------Error page End----------- */
+}
+/* ================Medium Device End================= */
+
+/* ================Small Device Start================= */
+@media (min-width:576px) and (max-width:767.98px){
+    .navbar-brand {
+        margin-right:0;
+    }
+    .navbar-brand img {
+        width: 250px;
+        margin-bottom: 0;
+    }
+    .navbar-toggler:focus {
+        box-shadow:none;
+    }
+    .navbar-toggler-icon {
+        padding-top: 30px;
+    }
+    .navbar-toggler-icon i{
+        color: #ffff;
+        font-size: 45px;
+    }
+    ul.our_primary_menu {
+        background: black;
+       
+    }
+    ul.our_primary_menu li:not(:last-child) {
+        border-bottom: 1px solid #ddd;
+    }
+    ul.our_primary_menu li a {
+        color: #fff;
+        padding-top: 10px;
+
+        padding-bottom: 10px;
+    }
+    .btn_primary {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .banner_right{
+        position: static !important;
+    }
+    .banner_right img {
+        position: static !important;
+    }
+    #banner {
+        padding-bottom: 130px;
+    }
+    .banner_left {
+        margin-left: 0;
+        text-align: center;
+    }
+    .banner_left h4 {
+        font-size: 26px;
+        text-align: left;
+        margin-left: 40px;
+    }
+    .banner_left h2 {
+        font-size: 300px;
+    }
+    .banner_left p {
+        font-size: 20px;
+    }
+    .btn_primary a {
+        padding: 17px 60px;
+        font-size: 26px;
+        text-transform: uppercase;
+    }
+    .counter_all {
+        clip-path: none;
+    }
+    .counter_item {
+        margin-bottom: 20px;
+    }
+    .unlock_item h3 {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        text-align: center;
+    }
+    .unlock_item P {
+        font-size: 18px;
+        width: 519px;
+        text-align: center;
+    }
+
+    #pricing_table {
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+    .pricing_table_caption h4 {
+        padding-bottom: 35px;
+    }
+    .btn_primary a {
+        font-size: 18px;
+    }
+    .pricing_table_item{
+        margin-bottom: 20px;
+    }
+    #frequently_tournaments {
+        padding-top: 75px;
+        padding-bottom: 75px;
+    }
+    .frequently_caption h4 {
+        padding-bottom: 25px;
+        text-align: center;
+    }
+    .accordion-item {
+        padding: 30px 0px 20px 0px;
+    }
+    .accordion-button {
+        font-size: 19px;
+    }
+    .accordion-body h5 {
+        font-size: 18px;
+    }
+    .tournaments_caption h4 {
+        padding-bottom: 33px;
+        margin-bottom: 30px;
+        margin-top: 34px;
+    }
+    .time_caption h5 {
+        font-size: 30px;
+        padding-bottom: 20px;
+    }
+    img, svg {
+        vertical-align: top;
+    }
+    #frequently_tournaments {
+        padding-bottom: 40px;
+    }
+    .Subscribe_caption h4 {
+        font-size: 30px;
+    }
+    .Subscribe_caption input {
+        color: #fff;
+    }
+    .payment_caption h4 {
+        padding-top: 0;
+    }
+    .payment_card img {
+        margin-right: 2px;
+        width: 17%;
+    }
+    .footer_item p {
+        font-size: 18px;
+        padding-bottom: 20px;
+        width: 252px;
+    }
+    .footer_btn a {
+        margin-right: 7px;
+    }
+    .footer_item h2 {
+        padding-top: 20px;
+    }
+    .security_img{
+        text-align: right;
+    }
+    #copy_right {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .copy_right_text h5 {
+        font-size: 15px;
+    }
+    .back_to_top {
+        width: 40px;
+        height: 40px;
+        bottom: 7px;
+        right: 10px;
+    }
+
+    .back_to_top i {
+        font-size: 20px;
+    }
+    /* ---------About page Start---------- */
+    .about_releted {
+        padding-top: 60px;
+        padding-bottom: 100px;
+    }
+    .about_breadcrumb_text h5 {
+        padding-bottom: 20px;
+    }
+    .about_unlock {
+        padding-top: 152px;
+        padding-bottom: 50px;
+    }
+    .about_unlock_item {
+        padding-top: 40px;
+    }
+    .btn_primary a {
+        padding: 16px 60px;
+    }
+    /* ---------About page End---------- */
+    /* ---------Games page End---------- */
+    .related {
+        padding-top: 80px;
+        padding-bottom: 50px;
+    }
+    /* ---------Games page Start---------- */
+    /* ---------Contact page Start---------- */
+    .contact_section {
+        padding-top: 130px;
+        padding-bottom: 40px;
+    }
+    .contact_text {
+        margin-left: 10px;
+    }
+    .contact_text h6 {
+        font-size: 10px;
+    }
+    .mx-4 {
+        margin-right: 0 !important;
+        margin-left: 0 !important;
+    }
+    .contact_icon a {
+        padding: 13px 15px;
+    }
+    .contact_text h4 {
+        font-size: 20px;
+        padding-bottom: 15px;
+    }
+    .contact_text h6 {
+        font-size: 8px;
+    }
+    /* ---------Contact page End---------- */
+    /* ---------Sign page Start---------- */
+    .sign_up_caption h5 {
+        margin-bottom: 40px;
+    }
+    /* ---------Sign page End---------- */
+    /* ---------Login page Start---------- */
+    .sign_up_img img {
+        left: -158px;
+        top: -70px;
+    }
+    .sign_up_section {
+        padding-top: 170px;
+        padding-bottom: 80px;
+    }
+    /* ---------Login page End---------- */
+    /* ---------Pricing page Start----------- */
+     .membership_pricing {
+        padding-top: 120px;
+        padding-bottom: 80px;
+    }
+    .counter_item h3 {
+        font-size: 35px;
+    }
+    .counter_item h5 {
+        font-size: 20px;
+    }
+     .pricing_table_item ul li {
+        font-size: 20px;
+    }
+     /* ---------Pricing page End----------- */
+     /* ---------Error page Start----------- */
+     #error {
+        padding-top: 220px;
+        padding-bottom: 80px;
+    }
+    .error_img {
+        position: inherit;
+    }
+    .error_text h3 {
+        font-size: 80px;
+    }
+    .error_text span {
+        letter-spacing: 10px;
+        padding-bottom: 40px;
+    }
+    .error_text {
+        top: 45%;
+    }
+     /* ---------Error page End----------- */
+}
+/* ================Small Device End================= */
+/* ================Extra Device Small Start================= */
+@media (max-width:575.98px){
+
+    .navbar-brand {
+        margin-right:0;
+    }
+    .navbar-brand img {
+        width: 200px;
+        margin-bottom: 0;
+    }
+    
+    .navbar-toggler:focus {
+        box-shadow:none;
+    }
+    .navbar-toggler-icon {
+        padding-top: 20px;
+    }
+    .navbar-toggler-icon i{
+        color: #ffff;
+        font-size: 40px;
+    }
+    ul.our_primary_menu {
+        background: black;
+    }
+    ul.our_primary_menu li:not(:last-child) {
+        border-bottom: 1px solid #ddd;
+    }
+    ul.our_primary_menu li a {
+        color: #fff;
+        padding-top: 10px;
+
+        padding-bottom: 10px;
+    }
+    .btn_primary {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .banner_right{
+        position: static !important;
+    }
+    .banner_right img {
+        position: static !important;
+    }
+    #banner {
+        padding-bottom: 130px;
+    }
+    .banner_left {
+        margin-left: 0;
+        text-align: center;
+    }
+    .banner_left h2 {
+        font-size: 165px;
+        
+    }
+    .counter_all {
+        clip-path: none;
+    }
+    .counter_item{
+        margin-bottom: 20px;
+    }
+    .related {
+        padding-top: 125px;
+        padding-bottom: 50px;
+    }
+
+    #unlock {
+        padding-top: 40px;
+        padding-bottom: 15px;
+    }
+    .unlock_item h3 {
+        font-size: 35px;
+        padding-top: 30px;
+        padding-bottom: 33px;
+        text-align: center;
+    }
+    .unlock_item P {
+        width: 250px;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .unlock_item span {
+        padding-top: 15px;
+    }
+    #pricing_table {
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+    .pricing_table_caption h4 {
+        font-size: 41px;
+        padding-bottom: 35px;
+    }
+    .btn_primary a {
+        font-size: 18px;
+    }
+    .pricing_table_item{
+        margin-bottom: 20px;
+    }
+    #frequently_tournaments {
+        padding-top: 65px;
+        padding-bottom: 65px;
+    }
+    .frequently_caption h4 {
+        font-size: 25px;
+        padding-bottom: 25px;
+        text-align: center;
+    }
+
+    .accordion-item {
+        padding: 15px 0px 10px 0px;
+    }
+    .accordion-button {
+        font-size: 11px;
+    }
+    .accordion-body h5 {
+       
+        font-size: 11px;
+    }
+    .tournaments_caption h4 {
+        font-size: 25px;
+        padding-bottom: 20px;
+        margin-bottom: 14px;
+        padding-top: 23px;
+        text-align: center;
+    }
+    .time_caption h5 {
+        font-size: 30px;
+        padding-bottom: 15px;
+    }
+    img, svg {
+        vertical-align: top;
+    }
+    #frequently_tournaments {
+        padding-bottom: 30px;
+    }
+    .Subscribe_caption input {
+        color: #fff;
+    }
+    .payment_caption h4 {
+        padding-top: 25px;
+    }
+    .payment_card img {
+        margin-right: 2px;
+        margin-top: 30px;
+        width: 18%;
+    }
+    #footer {
+        padding-top: 24px;
+        padding-bottom: 20px;
+    }
+    .footer_item h2 {
+        padding-bottom: 20px;
+        text-align: center;
+    }
+    .footer_item p {
+        width: 300px;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .footer_btn {
+        text-align: center;
+    }
+    .footer_btn a {
+        padding: 21px 21px;
+    }
+    .footer_item h2 {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .footer_item{
+        margin: 0 auto;
+    }
+    .security_img{
+        text-align: center
+    }
+
+    #copy_right {
+        padding-top: 17px;
+        padding-bottom: 17px;
+    }
+    .copy_right_text h5 {
+        font-size: 12px;
+    }
+
+    .back_to_top {
+        width: 40px;
+        height: 40px;
+        bottom: 7px;
+        right: 10px;
+    }
+    .back_to_top i {
+        font-size: 20px;
+    }
+    /* ---------About Page Start----------- */
+    .about_breadcrumb_text h5 {
+        padding-bottom: 20px;
+    }
+    .about_unlock {
+        padding-top: 130px;
+    }
+    .about_unlock_item {
+        padding-top: 50px;
+    }
+    .btn_primary a {
+        padding: 14px 16px;
+    }
+    .related {
+        padding-top: 45px;
+    }
+    /* ---------About Page End----------- */
+    /* ---------Pricing page Start----------- */
+    .about_breadcrumb_text h3 {
+        font-size: 36px;
+        padding-top: 40px;
+    }
+    .membership_pricing {
+        padding-top: 110px;
+        padding-bottom: 60px;
+    }
+    /* ---------Pricing page End----------- */
+    /* ---------Sign up page Start----------- */
+    .sign_up_section {
+        padding-top: 100px;
+        padding-bottom: 30px;
+    }
+    .sign_up_img {
+        position: static;
+        width: 300px;
+        height: 250px;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .sign_up_img img{
+        position: static;
+    }
+    .register a {
+        margin-left: 34px;
+    }
+    /* ---------Sign up page End----------- */
+    /* ---------Login page Start----------- */
+    .text-end {
+        text-align: left !important;
+    }
+    .form-group .form-control {
+        padding: 10px 0;
+        margin-bottom: 25px;
+    }
+    .sign_up_caption h5 {
+        margin-bottom: 40px;
+    }
+    /* ---------Login page End----------- */
+    /* ---------Contact page Start----------- */
+    .contact_section {
+        padding-top: 160px;
+        padding-bottom: 40px;
+    }
+    .contact_icon a {
+        padding: 20px 25px;
+    }
+    .contact_text {
+        margin-left: 15px;
+    }
+    .contact_text h4 {
+        font-size: 20px;
+    }
+    .contact_text h6 {
+        padding-bottom: 10px;
+        font-size: 15px;
+    }
+    .mx-4 {
+        margin-right: 0 !important;
+        margin-left: 0 !important;
+    }
+    .contact_item {
+        margin-bottom: 20px;
+    }
+    /* ---------Contact page End----------- */
+    /* ---------Contact page End----------- */
+    #error {
+        padding-top: 173px;
+        padding-bottom: 80px;
+    }
+    .error_img {
+        position: inherit;
+    }
+    .error_text h3 {
+        font-size: 50px;
+    }
+    .error_text span {
+        letter-spacing: 7px;
+        padding-bottom: 40px;
+    }
+    .error_text {
+        top: 31%;
+    }
+    /* ---------Contact page End----------- */
+
+}
+/* ================Extra Device Small End================= */
